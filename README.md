@@ -1,0 +1,2 @@
+# Dashboards_datastudio
+These are 3 different dashboards exploring the functionalities of Google data studio. The first one is a netflix dashboard shwoing the rating s of the first ten movies in which Leonardo Dicaprio starred. The second dashboard covers the job reviews of apple workers, allowing granular selection of specific job categories. The third dashboard allows exploration of a spotify dataset.
